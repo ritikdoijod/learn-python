@@ -1,9 +1,3 @@
-#
-# Example file for working with functions
-# LinkedIn Learning Python course by Joe Marini
-#
-
-
 # define a basic function
 def funct1():
     print("This is a function.")
