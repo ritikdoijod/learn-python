@@ -41,11 +41,13 @@ print(mydict["one"])
 # print("String type" + 123)
 print("String type" + str(123))
 
+
 # Global vs. local variables in functions
 def someFunction():
     # global mystr
     mystr = "Inside someFunction()"
     print(mystr)
+
 
 someFunction()
 
